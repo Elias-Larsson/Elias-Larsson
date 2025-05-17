@@ -1,8 +1,9 @@
-# 💫 About Me:
-🔭 Working on pokemon battle API<br>🌱 I’m currently learning fullstack development at chas academy<br>⚡ I'm kinda cool 😎
+# Welcome!
+My name is Elias and I'm a fullstack developer at Chas Academy.
 
+Right now I'm working on a fullstack app using pokeAPI, noSQL, TypeScript and react. Users will be able to battle other pokemons and see profile statistics. <br> 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -45,8 +46,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elias-Larsson&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true)<br/>
+## 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Elias-Larsson&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Elias-Larsson&theme=calm_pink&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Larsson&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Larsson&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+I'm kinda cool 😎
 
