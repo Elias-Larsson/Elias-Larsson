@@ -1,5 +1,5 @@
 # Welcome!
-My name is Elias and I'm a fullstack developer at Chas Academy.
+My name is Elias and I'm a fullstack developer at Chas Academy 👾
 
 Right now I'm working on a fullstack app using pokeAPI, noSQL, TypeScript and react. Users will be able to battle other pokemons and see profile statistics. <br> 
 
